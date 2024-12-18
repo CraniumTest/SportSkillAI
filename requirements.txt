@@ -1,0 +1,7 @@
+opencv-python
+mediapipe
+tensorflow
+pytorch
+scikit-learn
+flask
+gunicorn
